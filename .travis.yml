@@ -9,12 +9,9 @@ install:
 script:
 - chmod +x ./build.sh
 - "./build.sh"
-addons:
-  ssh_known_hosts:
-  - stage.maniacallabs.com
 deploy:
   - provider: pages
-    fqdn: ManiacalLabs.com
+    fqdn: adamhaile.com
     skip_cleanup: true
     local_dir: public
     github_token: "$GITHUB_TOKEN"
