@@ -1,0 +1,23 @@
+git:
+  depth: 1
+addons:
+  apt:
+    packages:
+    - python-pygments
+install:
+- rm -rf public || exit 0
+script:
+- chmod +x ./build.sh
+- "./build.sh"
+addons:
+  ssh_known_hosts:
+  - stage.maniacallabs.com
+deploy:
+  - provider: pages
+    fqdn: ManiacalLabs.com
+    skip_cleanup: true
+    local_dir: public
+    github_token: "$GITHUB_TOKEN"
+    on:
+      branch: master
+
