@@ -14,7 +14,9 @@
                     <div class="modal-body">
                         <h2>{{ .title }}</h2>
                         <hr class="star-primary">
-                        <img src="img/portfolio/{{ .img }}" class="img-responsive img-centered" alt="">
+                        <a href="{{ .projectLink }}">
+                            <img src="img/portfolio/{{ .img }}" class="img-responsive img-centered" alt="">
+                        </a>
                         <p>{{ .description | markdownify }}</p>
                         <p>More: <strong><a href="{{ .projectLink }}">{{ .linkText }}</a></strong></p>
                         <!-- <ul class="list-inline item-details">
