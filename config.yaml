@@ -16,7 +16,7 @@ params:
   navigation:
     brand: Adam Haile's Portfolio
   header:
-    image: profile.png
+    image: profile.jpg
     name: Adam Haile
     subtitle: Maker - Engineer - Artist
   portfolio:
@@ -49,9 +49,6 @@ params:
       email:
         text: Email Address
         error: Please enter your email address.
-      phone:
-        text: Phone Number
-        error: Please enter your phone number.
       message:
         text: Message
         error: Please enter a message.
@@ -59,20 +56,21 @@ params:
         text: Send
   footer:
     copyright: 'Published under the Apache License 2.0. Powered by [Hugo](//gohugo.io).'
-    location:
-      title: Location
-      address:
-        - 3481 Melrose Place
-        - 'Beverly Hills, CA 90210'
+    # location:
+    #   title: Location
+    #   address:
+    #     - Raleigh, NC
     social:
       title: Around the web
       networks:
         - icon: fa-github
-          link: //github.com/spf13/hugo
-        - icon: fa-stack-overflow
-          link: //stackoverflow.com/questions/tagged/hugo
-    credits:
-      title: About Freelancer
-      text: >-
-        Freelance is a free to use, open source Bootstrap theme created by
-        [Start Bootstrap](//startbootstrap.com).
+          link: //github.com/adammhaile
+        - icon: fa-github
+          link: //github.com/ManiacalLabs
+        - icon: fa-twitter
+          link: //twitter.com/ManiacalLabs
+    # credits:
+    #   title: About Freelancer
+    #   text: >-
+    #     Freelance is a free to use, open source Bootstrap theme created by
+    #     [Start Bootstrap](//startbootstrap.com).
