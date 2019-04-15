@@ -9,7 +9,7 @@ permalinks:
   code: '/:slug/'
 params:
   name: Adam Haile
-  description: My awesome description
+  description: Maker - Engineer - Artist
   email: adammhaile@gmail.com
   custom_css: ["main.css"]
   custom_js: []
