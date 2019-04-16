@@ -14,7 +14,7 @@ params:
   custom_css: ["main.css"]
   custom_js: []
   navigation:
-    brand: Adam Haile's Portfolio
+    brand: Adam Haile
   header:
     image: profile.jpg
     name: Adam Haile
