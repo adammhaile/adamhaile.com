@@ -31,3 +31,7 @@ header .container {
 .navbar-fixed-top {
     padding: 15px 0;
 }
+
+#portfolio .portfolio-item .portfolio-link .caption .caption-content {
+    top: 25%;
+}
