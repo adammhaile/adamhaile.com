@@ -1,6 +1,6 @@
 modalID: 2
 title: Bixel
 img: bixel.png
-linkText: Bixel @ ManiacalLabs.com
+linkText: Bixel on ManiacalLabs.com
 projectLink: "https://maniacallabs.com/bixel/"
 description: The Bixel (a portmanteau of Button and Pixel) was created after receiving an art grant in April 2018 from the [Raleigh Awesome Foundation](https://www.awesomefoundation.org/en/chapters/raleighdurham). The desire was to take the bright and flashy LED displays that Maniacal Labs was known for and finally allow people to interact with the display. Every pixel is a button that can change the animation or game in real time. While it may be pretty to look at, we saw it as a fun engineering challenge as well. Making a button matrix this large while doing so efficiently (in terms of computation, part count, and cost) is not an easy problem. Not to mention that designing and fabricating a 500mm x 500mm PCB comes with its own hurdles. The Bixel showed briefly at SparkCon 2018 (before weather ruined the day) and was on exhibit at VAE Raleigh during April 2018.

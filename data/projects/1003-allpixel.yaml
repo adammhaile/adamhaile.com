@@ -1,6 +1,6 @@
 modalID: 5
 title: AllPixel
 img: apm.png
-linkText: AllPixel @ ManiacalLabs.com
+linkText: AllPixel on ManiacalLabs.com
 projectLink: "https://maniacallabs.com/allpixel/"
 description: The AllPixel was really my first success in the world of open source hardware and was a joint effort with Dan Ternes, fellow founder of Maniacal Labs. It is, in simplest terms, like a video card for digital LED strips. Created out of a frustration with how many different ways there were to drive these new and awesome digital LEDs, it solved the problem by abstracting away the communication, letting you use a simplified interface for all types. We went on to run a very successful [Kickstarter campaign](https://www.kickstarter.com/projects/maniacallabs/allpixel-usb-interface-for-all-your-led-needs) and still sell (an updated version) to this day.

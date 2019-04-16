@@ -1,6 +1,6 @@
 modalID: 6
 title: PiPixel
 img: pipixel.png
-linkText: PiPixel @ ManiacalLabs.com
+linkText: PiPixel on ManiacalLabs.com
 projectLink: "https://maniacallabs.com/pipixel/"
 description: The PiPixel, another of Maniacal Labs' successful open hardware projects, takes the guesswork out of hooking up LED strips to the Raspberry Pi. Unlike the AllPixel, all communications with the LEDs happens directly on the Raspberry Pi (as it has readily available GPIO) but power and level shifting of signals is taken care of automatically.

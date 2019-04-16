@@ -1,6 +1,6 @@
 modalID: 1
 title: Colossus
 img: colossus.png
-linkText: Colossus @ ManiacalLabs.com
+linkText: Colossus on ManiacalLabs.com
 projectLink: "https://maniacallabs.com/colossus/"
 description: Standing over 2 meters tall, Colossus is one of the largest LED displays I have ever built with Maniacal Labs. It originally was designed as a demo of the capabilities of the [AllPixel](https://maniacallabs.com/AllPixel/) but went on to have a great showing at SparkCon 2015. Having been built before I had access to things like a laser cutter or CNC, this display was hand built and took over 300 hours to complete.

@@ -1,6 +1,6 @@
 modalID: 9
 title: NExuS
 img: nexus.jpg
-linkText: NExuS @ ManiacalLabs.com
+linkText: NExuS on ManiacalLabs.com
 projectLink: "https://maniacallabs.com/2015/07/27/weekend-project-nexus/"
 description: It seems to be a maker right of passage to take something new and make it look like something old. In this case, I turned a modern (at the time) Android TV device into a functional media streamer and retro emulation machine, all in the skin of an original NES. Even the original NES controllers worked, via a custom controller to USB converter board.
