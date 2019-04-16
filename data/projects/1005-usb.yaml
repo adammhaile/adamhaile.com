@@ -1,0 +1,6 @@
+modalID: 7
+title: USB Switch Buddy
+img: usbswitchbuddy.png
+linkText: USB Switch Buddy @ ManiacalLabs.com
+projectLink: "https://maniacallabs.com/products/usbswitchbuddy/"
+description: Sometimes you need USB data, but without the pesky power. The initial idea for this open hardware project came from one of my 3D printers' control board not turning off when the printer was off, because it was grabbing power from the Raspberry Pi that was controlling it. I wanted an easy pass through device with which the 5V line could be disabled at will.
