@@ -1,6 +1,6 @@
-modalID: 3
+modalID: 1006
 title: POV Saber
 img: pov_saber.png
-linkText: Bixel on ManiacalLabs.com
+linkText: POV Saber on ManiacalLabs.com
 projectLink: "https://maniacallabs.com/2018/10/07/povsaber/"
 description: Who doesn't love a light saber? Ever since I started working with digital LEDs I'd wanted to build a light saber. That idea ruminated for nearly 5 years until all the parts and skills came together. As with many of my larger projects, this utilized almost every skill I had at that point. 3D printing, CAD, software, firmware, PCB design, etc. In the end I had, well, more of a "light broadsword"... one meter of LEDs seemed reasonable in my head. But it could do more than just flash one color; it could display images and text in the air :)
