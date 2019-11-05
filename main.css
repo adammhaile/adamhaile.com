@@ -1,0 +1,37 @@
+body {
+    overflow-x: hidden;
+    color: #000000;
+}
+
+.btn, .btn-success {
+    color: #ffffff;
+    background-color: #f36926;
+    border-color: #f36926;
+}
+
+a, a:hover, a:focus, a:active, a.active {
+    outline: 0;
+    color: #f36926;
+}
+
+.navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-nav>li>a:focus {
+    color: #f36926;
+    background-color: transparent;
+}
+
+#portfolio .portfolio-item .portfolio-link .caption {
+    background: rgb(243, 105, 38, 0.9);
+}
+
+header .container {
+    padding-top: 140px;
+    padding-bottom: 40px;
+}
+
+.navbar-fixed-top {
+    padding: 15px 0;
+}
+
+#portfolio .portfolio-item .portfolio-link .caption .caption-content {
+    top: 25%;
+}
